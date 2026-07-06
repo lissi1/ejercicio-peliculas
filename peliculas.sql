@@ -1,6 +1,3 @@
--- peliculas.sql
--- Base de datos del videoclub. Se puede ejecutar de cero las veces que haga
--- falta sin que reviente: CREATE DATABASE IF NOT EXISTS + DROP TABLE IF EXISTS.
 
 CREATE DATABASE IF NOT EXISTS videoclub
     CHARACTER SET utf8mb4
