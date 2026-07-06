@@ -1,5 +1,4 @@
 <?php
-// Modelo Pelicula. Toda consulta a la tabla peliculas pasa por aqui.
 
 class Pelicula {
 
