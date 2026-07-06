@@ -1,6 +1,4 @@
 <?php
-// Singleton: obtener() siempre devuelve la misma conexion PDO durante
-// toda la peticion, en vez de abrir una nueva cada vez que se llama.
 
 class Conexion {
 
